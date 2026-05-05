@@ -10,7 +10,7 @@ Mi experiencia previa como Arquitecta me permite desarrollar soluciones con pens
 
 Busco una oportunidad como desarrolladora donde pueda aportar valor en proyectos reales, seguir creciendo y construir productos digitales escalables.
 
-🛠 Tech Stack y Habilidades
+# 🛠 Tech Stack y Habilidades
 
 Desarrollo frontend:
 HTML5, CSS3 (diseño responsivo), JavaScript (ES6+), React.js
