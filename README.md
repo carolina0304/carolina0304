@@ -64,6 +64,9 @@ Repositorio de GitHub
 • Adaptabilidad y aprendizaje continuo: Transición exitosa a tecnología, incorporando nuevas herramientas y buenas prácticas rápidamente.
 
 # 📫 Contacto
+
 • LinkedIn: linkedin.com/in/ArleneCarolina-Gomez 
+
 • Correo electrónico: garlene122@gmail.com
+
 • GitHub: https://github.com/carolina0304 
