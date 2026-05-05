@@ -1,4 +1,7 @@
-# Carolina
+# ¡Hola! 👋
+
+Soy Carolina, desarrolladora web Full Stack.
+
 🧑‍💻 Sobre mí
 
 Soy Desarrolladora Web Full Stack especializada en JavaScript, React y Node.js. Me enfoco en crear aplicaciones web funcionales, responsivas y centradas en el usuario, integrando frontend y backend con APIs REST.
