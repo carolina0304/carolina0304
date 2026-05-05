@@ -38,3 +38,15 @@ Resultado o aprendizaje: Logré una aplicación funcional y escalable desplegada
 🛠️ Tecnologías: React, JavaScript, CSS Responsivo, Node.js, Express, MongoDB, APIs REST, Git/GitHub, Vercel
 🔗 Enlaces: https://inmobiliaria-frontend-sage.vercel.app/
 Repositorio de GitHub
+
+# 2️⃣ Around The US – App Full Stack con Autenticación
+
+Problema: Desarrollar una aplicación web segura que permita a los usuarios registrarse, iniciar sesión y gestionar contenido (tarjetas) de forma dinámica.
+
+Qué hice: Construí una aplicación Full Stack con frontend y backend, implementando autenticación de usuarios (registro, inicio de sesión y protección de rutas). Desarrollé funcionalidades para agregar, eliminar y dar como una tarjeta, conectando el frontend con una API REST.
+
+Resultado o aprendizaje: Logré una aplicación completamente funcional con autenticación segura y manejo de usuarios en tiempo real. Fortalecí mis habilidades en integración backend-frontend, seguridad y gestión de estado.
+
+🛠️ Tecnologías utilizadas: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, API REST, Git/GitHub
+🔗 Enlaces: https://around-frontend-app.onrender.com/
+Repositorio de GitHub
