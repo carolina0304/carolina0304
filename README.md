@@ -26,3 +26,15 @@ Git, GitHub, Vercel
 
 Habilidades clave:
 Desarrollo Full Stack, Integración de APIs, Diseño responsivo, Arquitectura cliente-servidor, Componentes reutilizables, Resolución de problemas
+
+# 1️⃣ Proyecto Inmobiliaria TerraQro
+
+Problema: Desarrollar una plataforma web inmobiliaria que permita a los usuarios explorar, filtrar y gestionar propiedades de forma clara, segura y eficiente.
+
+Qué hice: Construí una aplicación Full Stack con React y Node.js, implementando autenticación de usuarios, sistema de roles (usuario/admin) y consumo de APIs REST. Diseñé una interfaz responsiva con componentes reutilizables y navegación intuitiva.
+
+Resultado o aprendizaje: Logré una aplicación funcional y escalable desplegada en producción. Fortalecí mis habilidades en integración frontend-backend, manejo de estados y diseño centrado en el usuario.
+
+🛠️ Tecnologías: React, JavaScript, CSS Responsivo, Node.js, Express, MongoDB, APIs REST, Git/GitHub, Vercel
+🔗 Enlaces: https://inmobiliaria-frontend-sage.vercel.app/
+Repositorio de GitHub
