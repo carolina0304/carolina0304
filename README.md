@@ -50,3 +50,20 @@ Resultado o aprendizaje: Logré una aplicación completamente funcional con aute
 🛠️ Tecnologías utilizadas: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, API REST, Git/GitHub
 🔗 Enlaces: https://around-frontend-app.onrender.com/
 Repositorio de GitHub
+
+# 🎖️ Rasgos distintivos
+
+• Pensamiento estructurado (antecedentes en Arquitectura): Diseño soluciones claras, organizadas y escalables tanto en frontend como backend.
+
+• Visión end-to-end (Full Stack): Entiendo y conecta toda la aplicación, desde la experiencia del usuario hasta la lógica del servidor y manejo de datos.
+
+• Enfoque en experiencia de usuario (UX): Desarrollo interfaces intuitivas, responsivas y centradas en la usabilidad real.
+
+• Resolución de problemas complejos: La experiencia gestionando proyectos reales me permite analizar, priorizar y ejecutar soluciones efectivas.
+
+• Adaptabilidad y aprendizaje continuo: Transición exitosa a tecnología, incorporando nuevas herramientas y buenas prácticas rápidamente.
+
+# 📫 Contacto
+• LinkedIn: linkedin.com/in/ArleneCarolina-Gomez 
+• Correo electrónico: garlene122@gmail.com
+• GitHub: https://github.com/carolina0304 
