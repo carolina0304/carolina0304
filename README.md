@@ -54,6 +54,33 @@ Resultado o aprendizaje: Logré una aplicación completamente funcional con aute
 🔗 Enlaces: https://around-frontend-app.onrender.com/
 Repositorio de GitHub
 
+# 3️⃣ Biblioteca Triple Peaks
+
+•Desarrollé un sitio web interactivo para una biblioteca digital que facilita la navegación y acceso a contenido multimedia, mejorando la experiencia del usuario mediante una estructura clara y funcionalidades dinámicas.
+
+• Implementé formularios funcionales y contenido multimedia embebido, permitiendo a los usuarios interactuar con la plataforma de forma intuitiva y realizar reservas de manera sencilla.
+
+• Apliqué metodología BEM y control de versiones con Git/GitHub para mantener un código organizado, escalable y alineado a flujos de trabajo colaborativos y buenas prácticas de desarrollo.
+
+• Sitio web desplegado en GitHub Pages con diseño responsivo y enfoque en usabilidad y accesibilidad para distintos dispositivos.
+
+Habilidades tecnológicas: HTML5, CSS3, Flexbox, BEM, Git/GitHub, Formularios HTML, DevTools
+🌐 https://carolina0304.github.io/web_project_coffeeshop/
+
+# 4️⃣ Página "Acerca de Mí" 
+
+• Desarrollé una página web personal desde cero para presentar información profesional de manera clara, estructurada y visualmente atractiva, fortaleciendo mi presencia digital como desarrolladora web.
+
+• Implementé una estructura semántica y diseño responsivo utilizando HTML5 y CSS3, mejorando la accesibilidad, organización del contenido y experiencia de navegación en distintos dispositivos.
+
+• Diseñé una interfaz coherente y enfocada en usabilidad, aplicando buenas prácticas de código limpio y mantenible para facilitar futuras mejoras y escalabilidad del proyecto.
+
+• Proyecto que marcó el inicio de mi transición al desarrollo web, fortaleciendo habilidades fundamentales en diseño frontend y estructura de aplicaciones web.
+
+Habilidades tecnológicas: HTML5, CSS3, Estructura de archivos, Diseño responsivo, Git básico
+🌐 https://carolina0304.github.io/Acerca-de-mi-/
+
+
 # 🎖️ Rasgos distintivos
 
 • Pensamiento estructurado (antecedentes en Arquitectura): Diseño soluciones claras, organizadas y escalables tanto en frontend como backend.
