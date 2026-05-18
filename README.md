@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Carolina, desarrolladora web Full Stack.
+Soy Carolina Gómez, desarrolladora web Full Stack.
 
 🧑‍💻 Sobre mí
 
